@@ -34,8 +34,8 @@ export default function HomePage() {
             </span>
           </div>
           <h1 style={{ fontFamily: "'Plus Jakarta Sans', sans-serif", fontSize: 'clamp(40px, 5.5vw, 72px)', fontWeight: 800, lineHeight: 1.06, letterSpacing: '-0.04em', marginBottom: 24, maxWidth: 820 }}>
-            The honest guide to<br />
-            <span style={{ color: '#818CF8' }}>every business tool</span>
+            The Decision Engine for<br />
+            <span style={{ color: '#818CF8' }}>Business Software</span>
           </h1>
           <p style={{ fontSize: 18, color: '#A1A1AA', lineHeight: 1.7, marginBottom: 44, maxWidth: 560 }}>
             Not "top 10" affiliate lists. Context-aware recommendations for your industry, team size, current stack, and budget. Free forever.
