@@ -33,7 +33,7 @@ export default function HomePage() {
               {totalTools}+ tools reviewed · Free forever · No affiliate links
             </span>
           </div>
-          <h1 style={{ fontFamily: "'Plus Jakarta Sans', sans-serif", fontSize: 'clamp(40px, 5.5vw, 72px)', fontWeight: 800, lineHeight: 1.06, letterSpacing: '-0.04em', marginBottom: 24, maxWidth: 820, color: '#818CF8' }}>
+          <h1 style={{ fontFamily: "'Plus Jakarta Sans', sans-serif", fontSize: 'clamp(40px, 5.5vw, 72px)', fontWeight: 800, lineHeight: 1.06, letterSpacing: '-0.04em', marginBottom: 24, maxWidth: 820, color: '#FFFFFF' }}>
             The Decision Engine for<br />
             <span style={{ color: '#818CF8' }}>Business Software</span>
           </h1>
